@@ -2,6 +2,7 @@
 
 <p align="center">
   🚀 Final-year M.Tech student at <strong>NIT Kurukshetra</strong> <br>
+  <br>
   👨‍💻 Software Engineer with a passion for clean backend architecture <br>
   🌱 Always eager to learn and contribute to impactful tech solutions
 </p>
